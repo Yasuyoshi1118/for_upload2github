@@ -2,6 +2,8 @@
 
 $ git init
 
+$ git branch -m <branch名>　※branchを変えたいとき　branchの確認は git branch
+
 $ git add .
 
 $git commit -m "[message]"
